@@ -12,6 +12,8 @@ What’s the best life hack you have invented recently?
 
 2) My final year project was a wearable health device that takes the ECG of a person and inform him if his heart was healthy or if he suffered from a condition called ‘atrial fibrillation’. Atrial Fibrillation (AF) is caused when the rhythm of the beating of the heart goes haywire. This condition can cause strokes and render the heart weak making it prone to heart attacks. 
 Our device extracted ECG from the person and fed to a neural network which was trained on 8,500 odd ECG signals and tested on 4,000 odd signals. The output of the network classified the ECG as either ‘Normal’ or ‘AF’. The monitoring happens in real time. Since AF is highly episodic the person can wear this device and go about doing his daily chores. As and when he is alerted by the device he can seek further medical help.
-  
+ 
+ 
+ Please open Cough1.ipynb jupyter notebook for the solution  for Problem Statement 2.
   
 
